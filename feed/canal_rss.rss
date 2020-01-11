@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal de RSS</title>
+        <link>https://mpaxe.github.io/</link>
+        <description>Meteorología Frankfurt</description>
+        <item>
+            <title>Meteorología Frankfurt</title>
+            <link>https://www.worldmeteo.info</link>
+            <description>Meteorología de Frankfurt</description>
+        </item>
+    </channel>
+</rss>

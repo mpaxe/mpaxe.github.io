@@ -1,0 +1,263 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+h1 {
+	font-size: 2.3em;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: 300;
+}
+
+h2 , h3 {
+	text-align: center;
+}
+
+hr {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	height: 2px;
+	background-color: #333;
+}
+
+p {
+	text-align: left;
+	display: inline-flex;
+	margin-right: auto;
+	margin-left: 1em;
+}
+
+caption {
+	font-size: 30px;
+	color: white;
+	background-color: #333;
+	padding: 5px 5px 5px 5px;
+}
+
+iframe {
+	width: 100%;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border: 2.5px solid #333;
+}
+
+th, td {
+	border: 1px solid #333;
+	text-align: center;
+}
+
+th {
+	background-color: #666;
+	color: white;
+}
+
+article{
+	min-height: 25em;
+}
+
+input {
+	width: 500px;
+	height: 20px;
+	text-align: center;
+	box-sizing: border-box;
+  	border: 2px solid #666;
+  	border-radius: 4px;
+}
+
+button {
+	width: 100px;
+	height: 25px;
+	border: none;
+  	border-radius: 4px;
+	cursor: pointer;
+	background-color: #666;
+	color: white;
+}
+
+nav {
+	float: right;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	padding-right: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	line-height: 80px;
+}
+
+nav ul li a {
+	display: block;
+	padding: 0 10px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	background: #818181;
+}
+
+textarea {
+	width: 500px;
+	height: 205px;
+	box-sizing: border-box;
+  	border: 2px solid #666;
+  	border-radius: 4px;
+}
+
+div.fechas {
+	display: inline-flex;
+	width: 100%;
+}
+
+div.imagen {
+	width: 100%;
+}
+
+#img-logo {
+	max-width: 100%;
+	height: auto;
+}
+
+#main-header {
+	background: #333;
+	color: white;
+	height: 80px;
+}	
+#main-header a {
+	color: white;
+}
+
+#logo-header {
+	float: left;
+	padding: 15px 0 0 20px;
+	text-decoration: none;
+}
+#logo-header:hover {
+	color: #818181;
+}
+
+#logo-header .site-name {
+	margin-left: 65px;
+	display: block;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+
+#logo-header .site-desc {
+	margin-left: 65px;
+	display: block;
+	font-weight: 300;
+	font-size: 0.8em;
+	color: #999;
+}
+
+#logo{
+	float: left;
+}
+
+#img-inicio {
+	float: right;
+}
+
+#main-content {
+	background: white;
+	max-width: 90%;
+	margin: 20px auto;
+	padding: 1%;
+	width: 50%;
+	min-width: 90%;
+	box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+
+#main-footer {
+	background: #333;
+	color: white;
+	text-align: center;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	padding: 1em 0 1.95em 0;
+}
+
+#imagen {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+
+#presentacion {
+	display: block;
+}
+
+#mapa {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tablas-transporte {
+	display: inline-flex;
+	width: 100%;
+}
+
+#precios {
+	margin: auto;
+}
+
+#img-hall4 {
+	width: 90%;
+}
+
+#tab-precios {
+	margin-right: 5em;
+}
+
+#formulario {
+	text-align: center;
+}
+
+.div-transporte {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.desc-transporte{
+	margin: 0;
+}
+
+div.traifas {
+	display: inline-fleX;
+	width: 100%;
+}
+
+.foto-galeria {
+	width: 50%;
+}
+
+.div-galeria {
+	display: inline-flex;
+}
+
+.foto-galeria {
+	filter: grayscale(100%);
+}
+
+.foto-galeria:hover {
+	filter: grayscale(0%);
+}
