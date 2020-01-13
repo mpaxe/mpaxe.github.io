@@ -169,6 +169,10 @@ div.imagen {
 	float: left;
 }
 
+#logo-rss{
+	width: 12px;
+}
+
 #img-inicio {
 	float: right;
 }
