@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal de RSS</title>
+        <link>https://mpaxe.github.io/index.html</link>
+        <description>Canal con información general de Frankfurt</description>
+        <language>es</language>
+        <item>
+            <title>Meteorología Frankfurt</title>
+            <link>https://www.worldmeteo.info/es/europa/alemania/frankfurt-am-main/tiempo-100658/</link>
+            <description>Meteorología de Frankfurt</description>
+        </item>
+        <item>
+            <title>Noticas locales</title>
+            <link>https://www.faz.net/aktuell/</link>
+            <description>Noticias locales de Frankfurter Allgemeine Zeitung</description>
+        </item>
+        <item>
+            <title>Noticas locales</title>
+            <link>https://www.hibridosyelectricos.com/</link>
+            <description>Noticias sobre la movilidad eléctrica</description>
+        </item>
+    </channel>
+</rss>
